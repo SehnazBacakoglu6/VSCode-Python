@@ -11,4 +11,5 @@
 #comment line kullanımı team work için önemli 
 # ctrl+k+c
 #ctrl+k+u
+#ctrl+"" >>>> terminali aç 
 # #region   #endregion (kod bölümleri oluşturmak ) dağınık kullanımı önler.
